@@ -1,0 +1,24 @@
+Steps
+Create a directory in your system
+
+mkdir my-app
+go to the directory
+
+cd my-app
+create package.json file
+
+npm init -y
+npm init will create new package.json file
+Flag -y will tell npm to use all default config option while creating package.json
+
+install react and react-dom
+
+npm install react react-dom
+Use: it will add react and react-dom under dependencies in package.json file as well as it create node_modules directory and package.lock.json file with all other dependent libraries in it.
+
+
+
+==================
+In JavaScript, class methods are not bound by default
+All normal function calls, this represnt the global object
+	
