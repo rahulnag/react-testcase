@@ -7,7 +7,7 @@
 
 NOTE: FunctionalComponentDemo
 class components with state details -- ClassComponentDemo and SetState_Demo
-TODO: different type of exports and import in react 
+TODO: different type of exports and import in react.
 passing props form one comp to other -- FunctionalComponentDemo
 passing state from one comp to other -- ClassComponentDemo
 
